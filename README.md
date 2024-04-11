@@ -25,6 +25,19 @@ License
 
 ## Latest Version
 
+- [2.0.0](/versions/2.0.0/README.md)
+    - Changed favorite field datatype in CustomViews. 
+    - Changed tabTraversal field datatype in Layouts Sections. 
+    - Changed phone and mobile field datatype in Users. 
+    - Support move_attachments_to field in the LeadConverter class. 
+    - Support for the following new APIs. 
+        - CustomViews 
+            - [Change Sort Order of Custom Views](https://www.zoho.com/crm/developer/docs/api/v6/sort-order-cv.html) 
+        - Users 
+            - [Users Count](https://www.zoho.com/crm/developer/docs/api/v6/users-count.html) 
+        - Features 
+            - [User Licences Count](https://www.zoho.com/crm/developer/docs/api/v6/get-user-licences.html)
+
 - [1.0.0](/versions/1.0.0/README.md)
 
     - JavaScript SDK upgraded to support v6 APIs.
@@ -46,7 +59,7 @@ For older versions, please [refer](https://github.com/zoho/zohocrm-javascript-sd
 
 ### CDN URL
 
-- https://static.zohocdn.com/zohocrm/v6.0/sdk/1.0.0/zohocrmsdk-6-0.js
+- https://static.zohocdn.com/zohocrm/v6.0/sdk/2.0.0/zohocrmsdk-6-0.js
 
 **NOTE** 
 
@@ -61,4 +74,4 @@ For example, if you generate the tokens for your Sandbox environment in the CN d
 
 ---
 
-For more details, kindly refer [here](/versions/1.0.0/README.md).
+For more details, kindly refer [here](/versions/2.0.0/README.md).
